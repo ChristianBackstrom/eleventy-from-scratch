@@ -1,0 +1,23 @@
+{
+  "name": "eleventy-from-scratch",
+  "version": "1.0.0",
+  "description": "This is for a tutorial about starting with eleventy from scratch. I will be following piccalil tutorial Learn-eleventy-from-scratch",
+  "main": ".eleventy.js",
+  "scripts": {
+    "start": "npx eleventy --serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChristianBackstrom/eleventy-from-scratch.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChristianBackstrom/eleventy-from-scratch/issues"
+  },
+  "homepage": "https://github.com/ChristianBackstrom/eleventy-from-scratch#readme",
+  "dependencies": {
+    "@11ty/eleventy": "^0.12.1"
+  }
+}
