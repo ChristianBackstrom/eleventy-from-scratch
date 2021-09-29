@@ -1,5 +1,5 @@
 ---
-title: "Hello, world"
+title: "Issue33"
 layout: "layouts/home.html"
 intro:
   eyebrow: "Digital Marketing is our"
